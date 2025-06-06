@@ -23,9 +23,26 @@
 
 ![image](https://github.com/user-attachments/assets/7872838c-a201-4500-9505-5d13abf12c85)
 
-
-
+# Results
 
 <p>The Random Forest classifier, especially after hyperparameter tuning, achieved exceptionally high performance on the test dataset with a 99.96% accuracy and ROC-AUC score of 0.9996, effectively distinguishing between fraudulent and non-fraudulent transactions.<p/> 
 
 <p>While performance on the unseen dataset was slightly lower (ROC-AUC of 0.9224), it still confirmed the model's robustness and real-world applicability. This solution significantly reduces potential financial losses and improves transaction security.<p/>
+
+# Conclusion
+
+### Top Performing Models:
+•	Random Forest <br>
+•	Decision Tree <br>
+•	KNN Classifier <br>
+•	LightGBM <br>
+
+**Why they performed well:** 
+
+•	These models can super good at figuring out complicated patterns and non-linear relationships very well. <br>
+•	Tree-based models are particularly excellent for tabular data with mixed types (categorical + numerical).<br>
+•	KNN which stands for K-Nearest Neighbors leverages a similarity metric, performing optimally when instances of fraud are distinctly separable based on their defining characteristics. <br>
+•	LightGBM is gradient-boosted decision trees, optimized for speed and performance. <br>
+•	It handles categorical and numerical features efficiently.<br>
+•	Slightly lower precision/recall than Random Forest due to underfitting or limited iterations before tuning. <br>
+
