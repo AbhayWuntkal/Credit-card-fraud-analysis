@@ -23,9 +23,9 @@
 
 # Results
 
-<p>The Random Forest classifier, especially after hyperparameter tuning, achieved exceptionally high performance on the test dataset with a **99.96%** accuracy and ROC-AUC score of **0.9996**, effectively distinguishing between fraudulent and non-fraudulent transactions.<p/> 
+<p>The Random Forest classifier, especially after hyperparameter tuning, achieved exceptionally high performance on the test dataset with a 99.96% accuracy and ROC-AUC score of 0.9996, effectively distinguishing between fraudulent and non-fraudulent transactions.<p/> 
 
-<p>While performance on the unseen dataset was slightly lower **(ROC-AUC of 0.9224)**, it still confirmed the model's robustness and real-world applicability. This solution significantly reduces potential financial losses and improves transaction security.<p/>
+<p>While performance on the unseen dataset was slightly lower (ROC-AUC of 0.9224), it still confirmed the model's robustness and real-world applicability. This solution significantly reduces potential financial losses and improves transaction security.<p/>
 
 # Conclusion
 
