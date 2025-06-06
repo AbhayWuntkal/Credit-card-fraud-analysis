@@ -13,18 +13,13 @@
 
 # Random Forest After Hyperparameter Tuning.
 
-![image](https://github.com/user-attachments/assets/1704ab91-aa8d-4327-9246-21101d3cd9ee)
-
-![image](https://github.com/user-attachments/assets/d4ff5070-fcc2-49ca-a081-1b7791e7ab3c)
-
 | ![Image 1](https://github.com/user-attachments/assets/1704ab91-aa8d-4327-9246-21101d3cd9ee) | ![Image 2](https://github.com/user-attachments/assets/d4ff5070-fcc2-49ca-a081-1b7791e7ab3c) |
 |----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
 
 # Random Forest on Unseen Data (Test Dataset)
 
-![image](https://github.com/user-attachments/assets/10df9155-9228-4265-9a3e-646231125fc6)
-
-![image](https://github.com/user-attachments/assets/7872838c-a201-4500-9505-5d13abf12c85)
+| ![Image 1](https://github.com/user-attachments/assets/10df9155-9228-4265-9a3e-646231125fc6) | ![Image 2](https://github.com/user-attachments/assets/7872838c-a201-4500-9505-5d13abf12c85) |
+|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
 
 # Results
 
